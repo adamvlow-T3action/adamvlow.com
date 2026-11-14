@@ -45,6 +45,17 @@ export default function Publications() {
         <ul className="pubs">
           <li>
             <b>
+              <a href="https://www.usgs.gov/news/volcano-watch-students-use-science-benefit-their-communities" target="_blank" rel="noopener noreferrer">
+                Volcano Watch: students use science for the benefit of their communities.
+              </a>
+            </b>
+            <span>
+              USGS Hawaiian Volcano Observatory, May 16, 2019. Upward Bound students in the T3 program at the University
+              of Hawaiʻi at Hilo built air-quality monitors after the 2018 Kīlauea eruption.
+            </span>
+          </li>
+          <li>
+            <b>
               <a
                 href="https://www.gettingsmart.com/2019/04/30/through-stem-t%C2%B3-alliance-works-towards-developing-a-solutionary-mindset/"
                 target="_blank"

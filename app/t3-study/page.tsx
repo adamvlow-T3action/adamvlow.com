@@ -28,6 +28,10 @@ const SOURCES = [
     href: "https://www.gettingsmart.com/2019/04/30/through-stem-t%C2%B3-alliance-works-towards-developing-a-solutionary-mindset/",
     text: "Rebecca Midles, T³ Alliance: Developing \"Solutionary\" Mindsets, Getting Smart, April 30, 2019.",
   },
+  {
+    href: "https://www.usgs.gov/news/volcano-watch-students-use-science-benefit-their-communities",
+    text: "USGS Hawaiian Volcano Observatory, Volcano Watch: Students use science for the benefit of their communities, May 16, 2019.",
+  },
 ];
 
 function Cite({ n }: { n: number[] }) {
@@ -54,7 +58,7 @@ const HISTORY: Array<{ when: string; title: string; blurb: string; cite: number[
   {
     when: "2017 to 2020",
     title: "T3 Alliance",
-    cite: [2, 3, 5, 6],
+    cite: [2, 3, 5, 6, 7],
     blurb:
       "With a second NSF grant, the model grew into the T3 Alliance, a network of Upward Bound programs across 17 states in the Established Program to Stimulate Competitive Research (EPSCoR), which supports places that receive less federal research funding. Other TRIO programs joined during these years and paid for their programming from other funding sources. Sites ran trainings for coaches, badges for skills, and community projects.",
   },
