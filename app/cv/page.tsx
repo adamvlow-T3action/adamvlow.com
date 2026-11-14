@@ -129,7 +129,7 @@ export default function CV() {
       <section className="hero">
         <h1>CV</h1>
         <p className="lead">
-          Educator and researcher working to remove barriers for underserved youth.
+          Education innovator and researcher.
         </p>
         <p className="prose">
           Contact: <a href={`mailto:${SITE.email}`}>{SITE.email}</a>
