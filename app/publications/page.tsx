@@ -36,6 +36,11 @@ export default function Publications() {
       </section>
 
       <section className="sec">
+        <h2>Papers</h2>
+        <p className="prose muted">No papers yet. The first paper, a history of T3, is in progress.</p>
+      </section>
+
+      <section className="sec">
         <h2>Writing about T3</h2>
         <ul className="pubs">
           <li>
@@ -51,11 +56,6 @@ export default function Publications() {
             <span>Rebecca Midles, Getting Smart, April 30, 2019.</span>
           </li>
         </ul>
-      </section>
-
-      <section className="sec">
-        <h2>Papers</h2>
-        <p className="prose muted">No papers yet. The first paper, a history of T3, is in progress.</p>
       </section>
     </>
   );
