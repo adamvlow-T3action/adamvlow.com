@@ -24,6 +24,14 @@ export default function Publications() {
               makerspace, start-ups, and a nonprofit.
             </span>
           </li>
+          <li>
+            <b>
+              <a href="https://www.youtube.com/watch?v=Qyo53si4RMo" target="_blank" rel="noopener noreferrer">
+                T3 Alliance: a proven method to empower students in community engagement.
+              </a>
+            </b>
+            <span>STEM Education team, IARPC Collaborations. October 6, 2022. Video.</span>
+          </li>
         </ul>
       </section>
 
