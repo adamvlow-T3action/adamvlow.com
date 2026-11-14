@@ -149,13 +149,13 @@ export default function CV() {
             <span>Associate Professor of Energy, Department of Mechanical Engineering, University of Alaska Fairbanks</span>
           </li>
           <li>
-            <b>Gwen Holdmann</b>
+            <b>Dr. Gwen Holdmann</b>
           </li>
           <li>
-            <b>Diane Hirshberg</b>
+            <b>Dr. Diane Hirshberg</b>
           </li>
           <li>
-            <b>Haruko Wainwright</b>
+            <b>Dr. Haruko Wainwright</b>
           </li>
         </ul>
       </section>

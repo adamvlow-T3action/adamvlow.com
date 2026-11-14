@@ -15,7 +15,7 @@ export default function Publications() {
         <ul className="pubs">
           <li>
             <b>After the grant ends: why some extracurricular STEM programs persist.</b>
-            <span>20-minute presentation on Zoom, Thursday, December 10, 2026.</span>
+            <span>Interdisciplinary PhD student presentations, on Zoom, Thursday, December 10, 2026.</span>
           </li>
         </ul>
       </section>
