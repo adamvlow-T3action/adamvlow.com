@@ -24,6 +24,10 @@ const SOURCES = [
     href: "https://www.youtube.com/watch?v=Qyo53si4RMo",
     text: "Adam V. Low, T3 Alliance: A proven method to empower students in community engagement, talk to the IARPC Collaborations STEM Education team, October 6, 2022 (video).",
   },
+  {
+    href: "https://www.gettingsmart.com/2019/04/30/through-stem-t%C2%B3-alliance-works-towards-developing-a-solutionary-mindset/",
+    text: "Rebecca Midles, T³ Alliance: Developing \"Solutionary\" Mindsets, Getting Smart, April 30, 2019.",
+  },
 ];
 
 function Cite({ n }: { n: number[] }) {
@@ -50,7 +54,7 @@ const HISTORY: Array<{ when: string; title: string; blurb: string; cite: number[
   {
     when: "2017 to 2020",
     title: "T3 Alliance",
-    cite: [2, 3, 5],
+    cite: [2, 3, 5, 6],
     blurb:
       "With a second NSF grant, the model grew into the T3 Alliance, a network of Upward Bound programs across 17 states in the Established Program to Stimulate Competitive Research (EPSCoR), which supports places that receive less federal research funding. Other TRIO programs joined during these years and paid for their programming from other funding sources. Sites ran trainings for coaches, badges for skills, and community projects.",
   },

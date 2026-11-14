@@ -36,6 +36,24 @@ export default function Publications() {
       </section>
 
       <section className="sec">
+        <h2>Writing about T3</h2>
+        <ul className="pubs">
+          <li>
+            <b>
+              <a
+                href="https://www.gettingsmart.com/2019/04/30/through-stem-t%C2%B3-alliance-works-towards-developing-a-solutionary-mindset/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                T³ Alliance: developing &ldquo;solutionary&rdquo; mindsets.
+              </a>
+            </b>
+            <span>Rebecca Midles, Getting Smart, April 30, 2019.</span>
+          </li>
+        </ul>
+      </section>
+
+      <section className="sec">
         <h2>Papers</h2>
         <p className="prose muted">No papers yet. The first paper, a history of T3, is in progress.</p>
       </section>
