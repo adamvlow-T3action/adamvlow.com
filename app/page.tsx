@@ -28,17 +28,43 @@ export default function Home() {
 
       <section className="sec">
         <h2>My research</h2>
-        <div className="prose">
-          <p>
-            I study why some Teaching Through Technology (T3) STEM sites kept going after their National Science
-            Foundation funding ended. I look at it three ways: a comparison of the former T3 Alliance sites, a history of
-            T3 Alaska and the work that grew from it, and a study of the new T3 Action nonprofit.
-          </p>
-          <p>
-            My working idea is that programs last when their founding values are built into local partnerships and
-            people. If that holds, funders should invest in local capacity, not just programs.
-          </p>
-        </div>
+        <dl className="five">
+          <div>
+            <dt>The question</dt>
+            <dd>
+              Why do some extracurricular STEM programs keep going after their grant funding ends, while others stop?
+            </dd>
+          </div>
+          <div>
+            <dt>Why it matters</dt>
+            <dd>
+              When a grant ends, students and rural communities can lose programs, mentors, and momentum, and funders lose
+              their investment.
+            </dd>
+          </div>
+          <div>
+            <dt>What I&apos;m doing</dt>
+            <dd>
+              Three studies of Teaching Through Technology (T3): a comparison of the former National Science Foundation
+              funded T3 Alliance sites using Qualitative Comparative Analysis, a history of T3 Alaska and the work that
+              grew from it, and a study of the new T3 Action nonprofit.
+            </dd>
+          </div>
+          <div>
+            <dt>What I&apos;m seeing so far</dt>
+            <dd>
+              Programs seem to last when their founding values are built into local partnerships and people. Data
+              collection is just starting, so this is a working idea, not a result.
+            </dd>
+          </div>
+          <div>
+            <dt>So what</dt>
+            <dd>
+              If the idea holds, funders and universities should invest in local capacity, not just programs.{" "}
+              <Link href="/t3-study">You can help test it.</Link>
+            </dd>
+          </div>
+        </dl>
       </section>
 
       <section className="sec">
