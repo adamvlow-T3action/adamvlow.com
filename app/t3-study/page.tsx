@@ -232,9 +232,11 @@ export default function Page() {
       <section className="sec">
         <h2>The values behind T3</h2>
         <p className="prose">
-          These ideas guided T3 from its early years. Part of the study asks whether the values help explain why T3
-          Alaska kept going after the NSF grant ended. Later research, with T3 Action, will look at how the same values
-          tie T3 to local economies and to wider community well-being.
+          These ideas guided T3 from its early years. In the comparison, each value is treated as a possible factor (in
+          QCA, a condition), alongside factors like leadership support and local funding. The study asks which factors,
+          alone or in combination, show up where programs kept going, including T3 Alaska after the NSF grant ended.
+          Later research, with T3 Action, will ask which combinations of factors tie programs like T3 to local economies
+          and to wider community well-being.
         </p>
         <ul className="cards">
           {VALUES.map((v) => (
