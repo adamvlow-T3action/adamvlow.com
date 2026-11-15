@@ -91,6 +91,17 @@ export default function Publications() {
         <ul className="pubs">
           <li>
             <b>
+              <a href="https://www.fs.usda.gov/about-agency/features/alaska-students-broadcast-bears-anan-wildlife-observatory" target="_blank" rel="noopener noreferrer">
+                Alaska students broadcast the bears of the Anan Wildlife Observatory.
+              </a>
+            </b>
+            <span>
+              Sally Hertz, USDA Forest Service, December 9, 2024. T3 students helped install livecams at a remote bear-viewing
+              site, watched by more than 200,000 people online.
+            </span>
+          </li>
+          <li>
+            <b>
               <a href="https://contentwithpurpose.co.uk/afs/tomorrowscatch/series_partners/alaska-blue-economy-center/" target="_blank" rel="noopener noreferrer">
                 Alaska Blue Economy Center.
               </a>

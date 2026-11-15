@@ -44,6 +44,10 @@ const SOURCES = [
     href: "https://contentwithpurpose.co.uk/afs/tomorrowscatch/series_partners/alaska-blue-economy-center/",
     text: "Alaska Blue Economy Center, Tomorrow's Catch series partner profile.",
   },
+  {
+    href: "https://www.fs.usda.gov/about-agency/features/alaska-students-broadcast-bears-anan-wildlife-observatory",
+    text: "Sally Hertz, Alaska students broadcast the bears of the Anan Wildlife Observatory, USDA Forest Service, December 9, 2024.",
+  },
 ];
 
 function Cite({ n }: { n: number[] }) {
@@ -84,7 +88,7 @@ const AFTER: Array<{ title: string; blurb: string; cite: number[] }> = [
   },
   {
     title: "T3 Alaska",
-    cite: [4, 8, 9, 10],
+    cite: [4, 8, 9, 10, 11],
     blurb:
       "A university program that still runs today. It adapted through COVID, became part of makerspaces and several college courses, and grew to reach communities and people beyond the Upward Bound network.",
   },
