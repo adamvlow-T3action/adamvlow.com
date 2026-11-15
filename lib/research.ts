@@ -10,15 +10,12 @@ export const RESEARCH_LINKS = {
   partB: "https://docs.google.com/forms/d/e/1FAIpQLSdw4xcqSR9Ax2lPKnGLR6XEDn4tsBQdgjOtBnqSYLWWaYzOiQ/viewform",
   /** Google Calendar appointment schedule, 30 minutes. */
   booking: "https://calendar.app.google/gVHGYkxxFqqEi1Pj7",
+  /** Google Form: contact sign-up for the later student and family phase. */
+  laterPhase: "",
 } as const;
 
 export const RESEARCH_EMAIL = "alow@alaska.edu";
 export const ADVISOR_EMAIL = "dhuang@alaska.edu";
-
-/** A mailto link for former students and families to hear about a later phase. */
-export const LATER_PHASE_MAILTO = `mailto:${RESEARCH_EMAIL}?subject=${encodeURIComponent(
-  "T3 research: let me know about later phases",
-)}`;
 
 /**
  * Adam's welcome video. Paste an embed link here (a YouTube "embed" link, or

@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 import { ResearchTakePart } from "@/components/research";
-import { ADVISOR_EMAIL, LATER_PHASE_MAILTO, RESEARCH_EMAIL, RESEARCH_VIDEO, VIDEO_TRANSCRIPT } from "@/lib/research";
+import { ADVISOR_EMAIL, RESEARCH_EMAIL, RESEARCH_LINKS, RESEARCH_VIDEO, VIDEO_TRANSCRIPT } from "@/lib/research";
 
 export const metadata: Metadata = {
   title: "What keeps T3 going",
@@ -251,7 +251,13 @@ export default function Page() {
 
         <p className="prose">
           <b>Former T3 student or family member?</b> Thank you. A later part of the study is for students and families.{" "}
-          <a href={LATER_PHASE_MAILTO}>Email me to hear when it opens.</a>
+          {RESEARCH_LINKS.laterPhase ? (
+            <a href={RESEARCH_LINKS.laterPhase} target="_blank" rel="noopener noreferrer">
+              Sign up to hear when it opens.
+            </a>
+          ) : (
+            "A sign-up form is coming soon."
+          )}
         </p>
       </section>
 
