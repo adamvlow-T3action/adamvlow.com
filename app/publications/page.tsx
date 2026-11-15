@@ -50,7 +50,7 @@ export default function Publications() {
               </a>
             </b>
             <span>
-              Carol A. Eddy-Dilek (lead author), with Adam V. Low as a co-author. AGU25 annual meeting, abstract U12A-03,
+              Carol A. Eddy-Dilek (lead author), with Adam Low as a co-author. AGU25 annual meeting, abstract U12A-03,
               December 15, 2025.
             </span>
           </li>

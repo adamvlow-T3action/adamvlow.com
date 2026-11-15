@@ -1,6 +1,6 @@
 # adamvlow.com
 
-Adam V. Low's research site. A static Next.js site: `next build` writes plain files to `out/`, so it runs on any static host.
+Adam Low's research site. A static Next.js site: `next build` writes plain files to `out/`, so it runs on any static host.
 
 ## Pages
 

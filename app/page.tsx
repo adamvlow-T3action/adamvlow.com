@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <>
       <section className="hero">
-        <h1>Adam V. Low</h1>
+        <h1>Adam Low</h1>
         <p className="lead">
           Education innovator and researcher. I study why some community science and technology programs keep going after their grant
           funding ends, and what they leave behind for the places they serve.

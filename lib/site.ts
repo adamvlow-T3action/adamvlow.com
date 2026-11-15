@@ -1,9 +1,9 @@
 export const SITE = {
-  name: "Adam V. Low",
+  name: "Adam Low",
   url: "https://adamvlow.com",
   email: "alow@alaska.edu",
   description:
-    "Adam V. Low is a PhD student at the University of Alaska Fairbanks studying why some community STEM programs keep going after their grant funding ends.",
+    "Adam Low is a PhD student at the University of Alaska Fairbanks studying why some community STEM programs keep going after their grant funding ends.",
 } as const;
 
 export const NAV = [
