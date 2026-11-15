@@ -38,7 +38,7 @@ export default function Home() {
           <div>
             <dt>Why it matters</dt>
             <dd>
-              When a grant ends, students and rural communities can lose programs, mentors, and momentum, and funders lose
+              When a grant ends, students and communities can lose programs, mentors, and momentum, and funders lose
               their investment.
             </dd>
           </div>
@@ -60,7 +60,9 @@ export default function Home() {
           <div>
             <dt>So what</dt>
             <dd>
-              If the idea holds, funders and universities should invest in local capacity, not just programs.{" "}
+              Qualitative Comparative Analysis can show more than one recipe for a program that lasts: combinations of
+              factors that work together. Those recipes become a dashboard of key things for communities, funders, and
+              universities to look for and build when starting programs meant to last.{" "}
               <Link href="/t3-study">You can help test it.</Link>
             </dd>
           </div>
