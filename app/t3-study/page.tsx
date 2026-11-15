@@ -60,7 +60,7 @@ const HISTORY: Array<{ when: string; title: string; blurb: string; cite: number[
     title: "T3 Alliance",
     cite: [2, 3, 5, 6, 7],
     blurb:
-      "With a second NSF grant, the model grew into the T3 Alliance, a network of Upward Bound programs across 17 states in the Established Program to Stimulate Competitive Research (EPSCoR), which supports places that receive less federal research funding. Other TRIO programs joined during these years and paid for their programming from other funding sources. Sites ran trainings for coaches, badges for skills, and community projects.",
+      "With a second NSF grant, the model grew into the T3 Alliance, a network of Upward Bound programs across 17 states in the Established Program to Stimulate Competitive Research (EPSCoR), which supports places that receive less federal research funding. Other TRIO programs joined during these years and paid for their programming from other funding sources. The T3 model offered trainings for coaches, badges for skills, and community projects. Which parts each site used is one of the things this study asks.",
   },
   {
     when: "2020 on",
