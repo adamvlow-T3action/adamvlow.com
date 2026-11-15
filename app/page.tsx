@@ -30,9 +30,10 @@ export default function Home() {
         <h2>My research</h2>
         <div className="prose">
           <p>
-            My case is Teaching Through Technology (T3), a program I helped lead. T3 started in Alaska on National Science
-            Foundation grants and grew into a network of Upward Bound programs across many states. When the grants ended,
-            several sites kept going in their own ways.
+            I study Teaching Through Technology (T3), a hands-on program where students use drones, 3D printing, and
+            design to take on projects for their own communities. From 2017 to 2020, a National Science Foundation grant
+            funded T3 Alliance sites in Upward Bound programs across 17 states. When the grant ended, several sites kept
+            going in their own ways, through universities, schools, and nonprofits.
           </p>
           <p>
             Using Qualitative Comparative Analysis, I compare those sites to find which factors, alone or in combination,
