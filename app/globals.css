@@ -79,3 +79,6 @@ p{margin:0}
 .cv-where{display:block;color:var(--muted);font-size:16px}
 .cv p{margin-top:6px;color:var(--muted);font-size:16px;max-width:66ch}
 @media (max-width:560px){.cv li{grid-template-columns:1fr;gap:2px}}
+.roles{color:var(--muted);font-size:17px;line-height:1.5}
+.ctas{display:flex;flex-wrap:wrap;gap:12px;margin-top:4px}
+.btn-quiet{background:transparent;color:var(--accent);box-shadow:inset 0 0 0 2px var(--accent)}

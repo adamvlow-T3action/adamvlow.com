@@ -92,7 +92,11 @@ const EXPERIENCE: Entry[] = [
 ];
 
 const EDUCATION: Entry[] = [
-  { when: "In progress", title: "PhD, Interdisciplinary Studies", where: "University of Alaska Fairbanks" },
+  {
+    when: "In progress",
+    title: "PhD, Interdisciplinary Studies",
+    where: "University of Alaska Fairbanks. Home department: Mechanical Engineering.",
+  },
   { when: "1999", title: "Master of Arts in Teaching", where: "University of Alaska Anchorage" },
   { when: "1997", title: "Bachelor of Science in Geology, with honors", where: "University of Alaska Fairbanks" },
 ];
