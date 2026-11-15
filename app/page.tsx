@@ -53,7 +53,8 @@ export default function Home() {
           <div>
             <dt>What I&apos;m seeing so far</dt>
             <dd>
-              Programs seem to last when their founding values are built into local partnerships and people. Data
+              No single factor seems to explain it. Programs seem to last when several factors come together, such as
+              founding values built into local partnerships, people who stay, and local support after the grant. Data
               collection is just starting, so this is a working idea, not a result.
             </dd>
           </div>
