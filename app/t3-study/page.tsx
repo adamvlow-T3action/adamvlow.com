@@ -32,6 +32,10 @@ const SOURCES = [
     href: "https://www.usgs.gov/news/volcano-watch-students-use-science-benefit-their-communities",
     text: "USGS Hawaiian Volcano Observatory, Volcano Watch: Students use science for the benefit of their communities, May 16, 2019.",
   },
+  {
+    href: "https://storymaps.arcgis.com/stories/6ba66c4d01654d42a3dd25a2fb0a7ce1",
+    text: "T3 Energy-Environment Summer Camp, ArcGIS StoryMap, June 14, 2024.",
+  },
 ];
 
 function Cite({ n }: { n: number[] }) {
@@ -72,7 +76,7 @@ const AFTER: Array<{ title: string; blurb: string; cite: number[] }> = [
   },
   {
     title: "T3 Alaska",
-    cite: [4],
+    cite: [4, 8],
     blurb:
       "A university program that still runs today. It adapted through COVID, became part of makerspaces and several college courses, and grew to reach communities and people beyond the Upward Bound network.",
   },

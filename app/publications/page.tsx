@@ -63,6 +63,14 @@ export default function Publications() {
         <ul className="pubs">
           <li>
             <b>
+              <a href="https://storymaps.arcgis.com/stories/6ba66c4d01654d42a3dd25a2fb0a7ce1" target="_blank" rel="noopener noreferrer">
+                T3 Energy-Environment Summer Camp.
+              </a>
+            </b>
+            <span>ArcGIS StoryMap, June 14, 2024. High school students test whether local water in the Arctic is safe.</span>
+          </li>
+          <li>
+            <b>
               <a href="https://www.usgs.gov/news/volcano-watch-students-use-science-benefit-their-communities" target="_blank" rel="noopener noreferrer">
                 Volcano Watch: students use science for the benefit of their communities.
               </a>
