@@ -54,6 +54,18 @@ export default function Publications() {
               December 15, 2025.
             </span>
           </li>
+          <li>
+            <b>
+              <a href="https://www.ans.org/pubs/transactions/article-54814/" target="_blank" rel="noopener noreferrer">
+                Nuclear energy in rural Alaska? Path forward by addressing past negative events.
+              </a>
+            </b>
+            <span>
+              Haruko M. Wainwright, Amandeep Singh, Adam Low, J. Ali Hanks, Brian Powell, Richelle Johnson, Diane
+              Hirshberg, and Gwen Holdmann. Transactions of the American Nuclear Society, volume 129, pages 804 to 806,
+              November 2023.
+            </span>
+          </li>
         </ul>
         <p className="prose muted">The first paper from my dissertation, a history of T3, is in progress.</p>
       </section>
