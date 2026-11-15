@@ -66,6 +66,11 @@ const HISTORY: Array<{ when: string; title: string; blurb: string; cite: number[
 
 const AFTER: Array<{ title: string; blurb: string; cite: number[] }> = [
   {
+    title: "T3 Alliance",
+    cite: [3],
+    blurb: "Still supported today by Educating for Leadership, the nonprofit it is a part of.",
+  },
+  {
     title: "T3 Alaska",
     cite: [4],
     blurb:
@@ -208,8 +213,8 @@ export default function Page() {
 
         <h3 className="rs-h3">After 2020: more than one path</h3>
         <p className="prose">
-          When the NSF grant ended, each site went its own way. Some may have stopped, some may have kept going, and some
-          may have turned into something new. The study looks for all of those paths. Two that still run today:
+          When the NSF grant ended, each site went its own way. Several sites kept going, some in new forms, and others
+          stopped. The study looks at all of those paths. Three that continue today:
         </p>
         <ul className="cards">
           {AFTER.map((a) => (
