@@ -73,6 +73,20 @@ export default function Publications() {
       </section>
 
       <section className="sec">
+        <h2>Videos</h2>
+        <ul className="pubs">
+          <li>
+            <b>
+              <a href="https://www.youtube.com/playlist?list=PLy6c17kq-XxLPmXEIEIPWXGgR118yjRJb" target="_blank" rel="noopener noreferrer">
+                T3 Live Stream Training.
+              </a>
+            </b>
+            <span>A YouTube series of T3 trainings, on the T3 Alliance channel.</span>
+          </li>
+        </ul>
+      </section>
+
+      <section className="sec">
         <h2>Writing about T3</h2>
         <ul className="pubs">
           <li>
