@@ -36,6 +36,10 @@ const SOURCES = [
     href: "https://storymaps.arcgis.com/stories/6ba66c4d01654d42a3dd25a2fb0a7ce1",
     text: "T3 Energy-Environment Summer Camp, ArcGIS StoryMap, June 14, 2024.",
   },
+  {
+    href: "https://www.gettingsmart.com/2020/05/06/t3-alliance-turning-a-crisis-into-an-educational-opportunity/",
+    text: "Adam Low, T3 Alliance: Turning a Crisis into an Educational Opportunity, Getting Smart, May 6, 2020.",
+  },
 ];
 
 function Cite({ n }: { n: number[] }) {
@@ -76,7 +80,7 @@ const AFTER: Array<{ title: string; blurb: string; cite: number[] }> = [
   },
   {
     title: "T3 Alaska",
-    cite: [4, 8],
+    cite: [4, 8, 9],
     blurb:
       "A university program that still runs today. It adapted through COVID, became part of makerspaces and several college courses, and grew to reach communities and people beyond the Upward Bound network.",
   },

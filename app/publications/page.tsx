@@ -59,6 +59,20 @@ export default function Publications() {
       </section>
 
       <section className="sec">
+        <h2>Articles</h2>
+        <ul className="pubs">
+          <li>
+            <b>
+              <a href="https://www.gettingsmart.com/2020/05/06/t3-alliance-turning-a-crisis-into-an-educational-opportunity/" target="_blank" rel="noopener noreferrer">
+                T3 Alliance: turning a crisis into an educational opportunity.
+              </a>
+            </b>
+            <span>Getting Smart, May 6, 2020.</span>
+          </li>
+        </ul>
+      </section>
+
+      <section className="sec">
         <h2>Writing about T3</h2>
         <ul className="pubs">
           <li>
