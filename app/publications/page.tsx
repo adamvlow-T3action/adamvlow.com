@@ -91,6 +91,18 @@ export default function Publications() {
         <ul className="pubs">
           <li>
             <b>
+              <a href="https://www.uaf.edu/acep-blog/strengthening-long-term-energy-resilience-lessons-from-cordova.php" target="_blank" rel="noopener noreferrer">
+                Strengthening long-term energy resilience: lessons from Cordova.
+              </a>
+            </b>
+            <span>
+              Daisy Huang and George Reising, Alaska Center for Energy and Power, University of Alaska Fairbanks, July 31,
+              2026. Cordova middle and high school students in Teaching Through Technology explore real energy challenges
+              in their own community. Photo by Adam Low.
+            </span>
+          </li>
+          <li>
+            <b>
               <a href="https://www.fs.usda.gov/about-agency/features/alaska-students-broadcast-bears-anan-wildlife-observatory" target="_blank" rel="noopener noreferrer">
                 Alaska students broadcast the bears of the Anan Wildlife Observatory.
               </a>
