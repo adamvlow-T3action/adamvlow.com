@@ -181,18 +181,22 @@ export default function Page() {
         <h2>What I&apos;m studying</h2>
         <div className="prose">
           <p>
-            I&apos;m Adam Low, a PhD student in Interdisciplinary Studies at the University of Alaska Fairbanks. For more than
-            10 years, Teaching Through Technology (T3) programs ran in rural and island communities. Students used drones, 3D printers, and design tools to
-            build projects that helped their own communities.
+            I&apos;m Adam Low, a PhD student in Interdisciplinary Studies at the University of Alaska Fairbanks. My research
+            asks why some extracurricular science, technology, engineering, and math (STEM) programs keep going after
+            their grant funding ends, while others stop. I study this through Teaching Through Technology (T3), where
+            students and educators use drones, 3D printers, and design tools to build projects that help the places they
+            live.
           </p>
           <p>
-            Grants paid for most of that work, and grants end. Some T3 sites stopped when the money stopped. Others kept
-            going, or turned into something new: a makerspace, a class, a small business, a local job pathway. My research
-            asks what made the difference.
+            Grants paid for most of T3&apos;s work, and grants end. When the National Science Foundation grant ended in
+            2020, some T3 sites stopped. Others kept going, or turned into something new, such as a makerspace, a class, or
+            a local job pathway. I compare those sites to find which factors, alone or in combination, show up where
+            programs kept going.
           </p>
           <p>
-            I&apos;m also tracing how the values set in T3&apos;s early years carried into what came after. The goal is
-            practical: to help schools, tribes, communities, and funders plan programs that last.
+            I&apos;m also tracing how the values set in T3&apos;s early years carried into what came after. Later work,
+            with the new T3 Action nonprofit, will look at how programs like T3 connect to local economies and community
+            well-being. The goal is practical: to help schools, tribes, communities, and funders plan programs that last.
           </p>
         </div>
       </section>
