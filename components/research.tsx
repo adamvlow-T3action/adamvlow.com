@@ -26,7 +26,7 @@ export function ResearchTakePart() {
           ok={ok}
           href={RESEARCH_LINKS.partA}
           title="Directors and program staff"
-          blurb="You directed a T3 site or worked on its program staff. 24 questions about how the site ran and what happened after the grant. About 20 minutes."
+          blurb="You directed a T3 site or worked on its program staff. 24 questions about how the site ran and what happened after the grant."
           cta="Open Part A"
         />
         <Way
