@@ -309,9 +309,9 @@ export default function Page() {
       <section className="sec">
         <h2>My two roles</h2>
         <p className="prose">
-          I helped lead T3, and I&apos;m board president of T3 Action, an Alaska nonprofit that builds on the T3 model.
-          This study is my own doctoral research. It is not a T3 Action program, and taking part or not has no effect on
-          your relationship with T3 Action or with me. If you&apos;d rather talk to someone else about the study, contact my faculty advisor.
+          I helped lead T3, and I&apos;m board president of T3 Action. This study is my own doctoral research, not a T3
+          Action project. Taking part, or not, has no effect on your relationship with T3 Action or with me. If you&apos;d
+          rather talk with someone else about the study, contact my faculty advisor.
         </p>
         <ul className="cards">
           <li>
