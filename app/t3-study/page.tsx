@@ -67,7 +67,7 @@ const HISTORY: Array<{ when: string; title: string; blurb: string; cite: number[
     title: "T3 Alaska",
     cite: [4],
     blurb:
-      "When the NSF grant ended, the work continued in Alaska as a university program, which still runs today. It adapted through COVID and helped start a makerspace, a college course, and new organizations, including Remote Hands.",
+      "When the NSF grant ended, the work continued in Alaska as a university program, which still runs today. It adapted through COVID, became part of makerspaces and several college courses, and grew to reach communities and people beyond the Upward Bound network.",
   },
   {
     when: "2026",
