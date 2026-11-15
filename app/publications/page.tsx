@@ -36,8 +36,26 @@ export default function Publications() {
       </section>
 
       <section className="sec">
-        <h2>Papers</h2>
-        <p className="prose muted">No papers yet. The first paper, a history of T3, is in progress.</p>
+        <h2>Papers and abstracts</h2>
+        <ul className="pubs">
+          <li>
+            <b>
+              <a
+                href="https://studio.m-anage.com/agu/agu25/meetingapp.cgi/Paper/1863085"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Integrating next-generation environmental monitoring and education activities for developing citizen
+                science and improving global environmental literacy.
+              </a>
+            </b>
+            <span>
+              Carol A. Eddy-Dilek (lead author), with Adam V. Low as a co-author. AGU25 annual meeting, abstract U12A-03,
+              December 15, 2025.
+            </span>
+          </li>
+        </ul>
+        <p className="prose muted">The first paper from my dissertation, a history of T3, is in progress.</p>
       </section>
 
       <section className="sec">
