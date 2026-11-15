@@ -81,7 +81,7 @@ export default function Publications() {
                 T3 Live Stream Training.
               </a>
             </b>
-            <span>A YouTube series of T3 trainings, on the T3 Alliance channel.</span>
+            <span>A YouTube series of T3 trainings, on the T3 Alliance channel, starting February 12, 2019.</span>
           </li>
         </ul>
       </section>
