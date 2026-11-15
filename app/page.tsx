@@ -30,15 +30,13 @@ export default function Home() {
         <h2>My research</h2>
         <div className="prose">
           <p>
-            I study Teaching Through Technology (T3), a hands-on program where students use drones, 3D printing, and
-            design to take on projects for their own communities. From 2017 to 2020, a National Science Foundation grant
-            funded T3 Alliance sites in Upward Bound programs across 17 states. When the grant ended, several sites kept
-            going in their own ways, through universities, schools, and nonprofits.
+            I study why some Teaching Through Technology (T3) STEM sites kept going after their National Science
+            Foundation funding ended. I look at it three ways: a comparison of the former T3 Alliance sites, a history of
+            T3 Alaska and the work that grew from it, and a study of the new T3 Action nonprofit.
           </p>
           <p>
-            Using Qualitative Comparative Analysis, I compare those sites to find which factors, alone or in combination,
-            show up where programs lasted. The goal is practical: to help schools, tribes, communities, and funders plan
-            programs that last.
+            My working idea is that programs last when their founding values are built into local partnerships and
+            people. If that holds, funders should invest in local capacity, not just programs.
           </p>
         </div>
       </section>
