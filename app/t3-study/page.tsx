@@ -40,6 +40,10 @@ const SOURCES = [
     href: "https://www.gettingsmart.com/2020/05/06/t3-alliance-turning-a-crisis-into-an-educational-opportunity/",
     text: "Adam Low, T3 Alliance: Turning a Crisis into an Educational Opportunity, Getting Smart, May 6, 2020.",
   },
+  {
+    href: "https://contentwithpurpose.co.uk/afs/tomorrowscatch/series_partners/alaska-blue-economy-center/",
+    text: "Alaska Blue Economy Center, Tomorrow's Catch series partner profile.",
+  },
 ];
 
 function Cite({ n }: { n: number[] }) {
@@ -80,7 +84,7 @@ const AFTER: Array<{ title: string; blurb: string; cite: number[] }> = [
   },
   {
     title: "T3 Alaska",
-    cite: [4, 8, 9],
+    cite: [4, 8, 9, 10],
     blurb:
       "A university program that still runs today. It adapted through COVID, became part of makerspaces and several college courses, and grew to reach communities and people beyond the Upward Bound network.",
   },
