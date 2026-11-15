@@ -130,6 +130,17 @@ export default function Publications() {
           </li>
           <li>
             <b>
+              <a href="https://www.kyuk.org/education/2023-10-05/teaching-though-technology-leadership-conference-connects-students-statewide" target="_blank" rel="noopener noreferrer">
+                Teaching Through Technology leadership conference connects students statewide.
+              </a>
+            </b>
+            <span>
+              Francisco Martínezcuello, KYUK, October 5, 2023. Students in hubs in Bethel, Anchorage, Juneau, and Fairbanks
+              worked together remotely at the T3 Student Leadership Conference.
+            </span>
+          </li>
+          <li>
+            <b>
               <a href="https://www.usgs.gov/news/volcano-watch-students-use-science-benefit-their-communities" target="_blank" rel="noopener noreferrer">
                 Volcano Watch: students use science for the benefit of their communities.
               </a>

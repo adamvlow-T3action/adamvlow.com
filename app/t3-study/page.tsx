@@ -52,6 +52,10 @@ const SOURCES = [
     href: "https://www.uaf.edu/acep-blog/strengthening-long-term-energy-resilience-lessons-from-cordova.php",
     text: "Daisy Huang and George Reising, Strengthening long-term energy resilience: Lessons from Cordova, Alaska Center for Energy and Power, University of Alaska Fairbanks, July 31, 2026.",
   },
+  {
+    href: "https://www.kyuk.org/education/2023-10-05/teaching-though-technology-leadership-conference-connects-students-statewide",
+    text: "Francisco Martínezcuello, Teaching Through Technology leadership conference connects students statewide, KYUK, October 5, 2023.",
+  },
 ];
 
 function Cite({ n }: { n: number[] }) {
@@ -92,7 +96,7 @@ const AFTER: Array<{ title: string; blurb: string; cite: number[] }> = [
   },
   {
     title: "T3 Alaska",
-    cite: [4, 8, 9, 10, 11, 12],
+    cite: [4, 8, 9, 10, 11, 12, 13],
     blurb:
       "A university program that still runs today. It adapted through COVID, became part of makerspaces and several college courses, and grew to reach communities and people beyond the Upward Bound network.",
   },
