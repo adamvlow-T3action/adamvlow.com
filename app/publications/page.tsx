@@ -114,14 +114,6 @@ export default function Publications() {
           </li>
           <li>
             <b>
-              <a href="https://contentwithpurpose.co.uk/afs/tomorrowscatch/series_partners/alaska-blue-economy-center/" target="_blank" rel="noopener noreferrer">
-                Alaska Blue Economy Center.
-              </a>
-            </b>
-            <span>Tomorrow&apos;s Catch series partner profile. Features T3 as a key part of the center&apos;s work.</span>
-          </li>
-          <li>
-            <b>
               <a href="https://storymaps.arcgis.com/stories/6ba66c4d01654d42a3dd25a2fb0a7ce1" target="_blank" rel="noopener noreferrer">
                 T3 Energy-Environment Summer Camp.
               </a>
@@ -161,6 +153,14 @@ export default function Publications() {
               </a>
             </b>
             <span>Rebecca Midles, Getting Smart, April 30, 2019.</span>
+          </li>
+          <li>
+            <b>
+              <a href="https://contentwithpurpose.co.uk/afs/tomorrowscatch/series_partners/alaska-blue-economy-center/" target="_blank" rel="noopener noreferrer">
+                Alaska Blue Economy Center.
+              </a>
+            </b>
+            <span>Tomorrow&apos;s Catch series partner profile. Features T3 as a key part of the center&apos;s work.</span>
           </li>
         </ul>
       </section>
