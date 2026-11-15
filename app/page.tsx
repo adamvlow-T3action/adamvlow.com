@@ -32,7 +32,7 @@ export default function Home() {
       <section className="sec">
         <h2>Take part in the T3 study</h2>
         <p className="prose">
-          If you were a director, staff member, partner, or educator with a T3 program, your site&apos;s story can help
+          If you directed or staffed a T3 site, or you are an educator who used T3, your site&apos;s story can help
           explain why some programs last.
         </p>
         <p>

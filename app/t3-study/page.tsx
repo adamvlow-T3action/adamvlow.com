@@ -6,7 +6,7 @@ import { ADVISOR_EMAIL, RESEARCH_EMAIL, RESEARCH_LINKS, RESEARCH_VIDEO, VIDEO_TR
 export const metadata: Metadata = {
   title: "What keeps T3 going",
   description:
-    "A doctoral study of why some community STEM programs keep going after their grant funding ends. If you were a T3 director, staff member, partner, or educator, you can share your site's story.",
+    "A doctoral study of why some community STEM programs keep going after their grant funding ends. If you directed or staffed a T3 site, or used T3 as an educator, you can share your story.",
 };
 
 const SOURCES = [
@@ -221,23 +221,10 @@ export default function Page() {
 
       <section className="sec" id="take-part">
         <h2>Who I&apos;d like to hear from</h2>
-        <p className="prose">Adults, 18 or older, who took part in a T3 program in one of two ways:</p>
-        <ul className="cards">
-          <li>
-            <b>Directors, staff, and partners</b>
-            <span>
-              Upward Bound and TRIO directors, school and district administrators, site coaches and coordinators, and
-              staff of tribes, local governments, businesses, or nonprofits that worked with a T3 site.
-            </span>
-          </li>
-          <li>
-            <b>Educators and other adults</b>
-            <span>
-              Classroom teachers, after-school staff, coaches, and other adults who took T3 trainings or used T3 with
-              students but did not lead a site.
-            </span>
-          </li>
-        </ul>
+        <p className="prose">
+          Adults, 18 or older, in one of two groups. If you&apos;re not sure which one fits you, book a call and we&apos;ll
+          work it out together.
+        </p>
 
         <h3 className="rs-h3">Before you start</h3>
         <ul className="rs-list">

@@ -17,7 +17,7 @@ export function ResearchTakePart() {
       <label className="rs-check">
         <input type="checkbox" checked={ok} onChange={(e) => setOk(e.target.checked)} />
         <span>
-          I am 18 or older, and I took part in a T3 program as a director, staff member, partner, educator, or trainee.
+          I am 18 or older, and I directed or staffed a T3 site, or I am an educator or other adult who took T3 trainings or used T3 with students.
         </span>
       </label>
 
@@ -25,22 +25,22 @@ export function ResearchTakePart() {
         <Way
           ok={ok}
           href={RESEARCH_LINKS.partA}
-          title="Directors, staff, and partners"
-          blurb="24 questions about how your site's program ran and what happened after the grant. About 20 minutes."
+          title="Directors and program staff"
+          blurb="You directed a T3 site or worked on its program staff. 24 questions about how the site ran and what happened after the grant. About 20 minutes."
           cta="Open Part A"
         />
         <Way
           ok={ok}
           href={RESEARCH_LINKS.partB}
           title="Educators and other adults"
-          blurb="8 questions about how you used T3 in your classes or programs. About 15 minutes."
+          blurb="Classroom teachers, after-school staff, coaches, and other adults who took T3 trainings or used T3 with students but did not lead a site. 8 questions. About 20 to 30 minutes."
           cta="Open Part B"
         />
         <Way
           ok={ok}
           href={RESEARCH_LINKS.booking}
-          title="Rather talk?"
-          blurb="Book a 30-minute call. We go through the same questions and I type your answers into the same form."
+          title="Not sure, or rather talk?"
+          blurb="Book a 30-minute call. We go through the questions that fit you, and I type your answers into the form."
           cta="Book a 30-minute call"
         />
       </ul>
