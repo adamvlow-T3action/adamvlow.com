@@ -50,31 +50,32 @@ function Cite({ n }: { n: number[] }) {
 const HISTORY: Array<{ when: string; title: string; blurb: string; cite: number[] }> = [
   {
     when: "2014 to 2016",
-    title: "The Modern Blanket Toss",
+    title: "Where the model began: the Modern Blanket Toss",
     cite: [1],
     blurb:
       "A National Science Foundation (NSF) project with Upward Bound students at five Alaska sites: Bethel, Chefornak, Nikiski, Seward, and Shishmaref. Students learned to fly drones, 3D print, and design, and used those skills on projects that helped their own communities.",
   },
   {
     when: "2017 to 2020",
-    title: "T3 Alliance",
+    title: "Where the study starts: the T3 Alliance",
     cite: [2, 3, 5, 6, 7],
     blurb:
-      "With a second NSF grant, the model grew into the T3 Alliance, a network of Upward Bound programs across 17 states in the Established Program to Stimulate Competitive Research (EPSCoR), which supports places that receive less federal research funding. Other TRIO programs joined during these years and paid for their programming from other funding sources. The T3 model offered trainings for coaches, badges for skills, and community projects. Which parts each site used is one of the things this study asks.",
+      "With a second NSF grant, the model grew into the T3 Alliance, a network of Upward Bound programs across 17 states in the Established Program to Stimulate Competitive Research (EPSCoR), which supports places that receive less federal research funding. Other TRIO programs joined during these years and paid for their programming from other funding sources. The T3 model offered trainings for coaches, badges for skills, and community projects. Which parts of the model each site used is one of the questions in this study.",
   },
+];
+
+const AFTER: Array<{ title: string; blurb: string; cite: number[] }> = [
   {
-    when: "2020 on",
     title: "T3 Alaska",
     cite: [4],
     blurb:
-      "When the NSF grant ended, the work continued in Alaska as a university program, which still runs today. It adapted through COVID, became part of makerspaces and several college courses, and grew to reach communities and people beyond the Upward Bound network.",
+      "A university program that still runs today. It adapted through COVID, became part of makerspaces and several college courses, and grew to reach communities and people beyond the Upward Bound network.",
   },
   {
-    when: "2026",
     title: "T3 Action",
     cite: [],
     blurb:
-      "T3 Action, a separate and independent Alaska nonprofit, began building on the T3 model: hands-on technology trainings in communities, led by local trainers.",
+      "A separate and independent Alaska nonprofit, started in 2026, building on the T3 model with hands-on technology trainings in communities, led by local trainers.",
   },
 ];
 
@@ -188,7 +189,10 @@ export default function Page() {
 
       <section className="sec">
         <h2>A short history of T3</h2>
-        <p className="prose">T3 started on NSF grants, and T3 Alaska kept the work going after the last grant ended in 2020.</p>
+        <p className="prose">
+          The study starts with the sites funded through the T3 Alliance, and asks what happened at each one after the
+          grant ended in 2020.
+        </p>
         <ul className="rs-time">
           {HISTORY.map((h) => (
             <li key={h.title}>
@@ -197,6 +201,23 @@ export default function Page() {
               <span>
                 {h.blurb}
                 {h.cite.length > 0 && <Cite n={h.cite} />}
+              </span>
+            </li>
+          ))}
+        </ul>
+
+        <h3 className="rs-h3">After 2020: more than one path</h3>
+        <p className="prose">
+          When the NSF grant ended, each site went its own way. Some may have stopped, some may have kept going, and some
+          may have turned into something new. The study looks for all of those paths. Two that still run today:
+        </p>
+        <ul className="cards">
+          {AFTER.map((a) => (
+            <li key={a.title}>
+              <b>{a.title}</b>
+              <span>
+                {a.blurb}
+                {a.cite.length > 0 && <Cite n={a.cite} />}
               </span>
             </li>
           ))}
