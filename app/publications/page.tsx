@@ -55,10 +55,7 @@ export default function Publications() {
             </span>
           </li>
         </ul>
-        <p className="prose muted">
-          The first paper from my dissertation, a history of T3, is in progress. Later work, with T3 Action, will look at
-          how programs like T3 connect to local economies and to wider community well-being.
-        </p>
+        <p className="prose muted">The first paper from my dissertation, a history of T3, is in progress.</p>
       </section>
 
       <section className="sec">
