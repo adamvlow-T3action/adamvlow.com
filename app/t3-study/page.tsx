@@ -92,19 +92,20 @@ const AFTER: Array<{ title: string; blurb: string; cite: number[] }> = [
   {
     title: "T3 Alliance",
     cite: [3],
-    blurb: "Still supported today by Educating for Leadership, the nonprofit it is a part of.",
+    blurb:
+      "Continued after the grant through the nonprofit Educating for Leadership, which still supports programs through its T3 Alliance project. It has helped sites with grant management and provided training.",
   },
   {
     title: "T3 Alaska",
     cite: [4, 8, 9, 10, 11, 12, 13],
     blurb:
-      "A university program that still runs today. It adapted through COVID, became part of makerspaces and several college courses, and grew to reach communities and people beyond the Upward Bound network.",
+      "Housed at the University of Alaska Fairbanks and still running today. It is grant funded and supports student learning and community engagement across a wide range of workforce development areas. Along the way it became part of makerspaces and several college courses, and reached communities beyond the Upward Bound network.",
   },
   {
     title: "T3 Action",
     cite: [],
     blurb:
-      "A separate and independent Alaska nonprofit, started in 2026, building on the T3 model with hands-on technology trainings in communities, led by local trainers.",
+      "A new, independent Alaska nonprofit, started in 2026, building on the T3 model.",
   },
 ];
 
